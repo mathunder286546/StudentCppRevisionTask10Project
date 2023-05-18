@@ -38,4 +38,6 @@
 *	[output 7]: -1
 */
 
-//task04
+int task04i(int num) {
+	return 0;
+}

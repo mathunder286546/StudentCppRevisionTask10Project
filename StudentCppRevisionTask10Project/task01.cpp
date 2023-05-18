@@ -24,4 +24,8 @@
 *	[output 4]: 5
 */
 
-task01
+int task01(long long num) {
+	return 0;
+}
+
+
